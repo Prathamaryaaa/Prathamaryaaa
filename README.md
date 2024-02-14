@@ -1,4 +1,3 @@
-
 <div align="center">
   <img height="250" src="https://camo.githubusercontent.com/aa9557de6bb009b4805f61f8a5861882dc6593d297ad0d13243028f309d25259/68747470733a2f2f7374617469632e70696e676361702e636f6d2f66696c65732f323032322f31322f30353037323730372f636861744750542d4769744875622d62616e6e65722e6a7067"  />
 </div>
@@ -75,9 +74,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?
-    username=Prathamaryaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prathamaryaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathamaryaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prathamaryaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
