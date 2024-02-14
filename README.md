@@ -1,5 +1,3 @@
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamaryaaa&label=Profile%20views&color=0e75b6&style=flat" alt="prathamaryaaa" /> </p>
 <div align="center">
   <img height="250" src="https://camo.githubusercontent.com/aa9557de6bb009b4805f61f8a5861882dc6593d297ad0d13243028f309d25259/68747470733a2f2f7374617469632e70696e676361702e636f6d2f66696c65732f323032322f31322f30353037323730372f636861744750542d4769744875622d62616e6e65722e6a7067"  />
