@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **myself to fit in with industry standards**
 
-- 🌱 I’m currently learning **SQL & Tableau**
-
 - 👯 I’m looking to collaborate on **a significant Data Science project**
 
 - 💬 Ask me about **Python, Data Science**
