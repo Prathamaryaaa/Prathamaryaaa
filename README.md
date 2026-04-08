@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamaryaaa&label=Profile%20views&color=0e75b6&style=flat" alt="prathamaryaaa" /> </p>
 
-- 🔭 I’m currently working on **myself to fit in with industry standards**
+- 🔭 I’m currently working on myself to fit in the tech industry.
 
-- 👯 I’m looking to collaborate on **a significant Data Science project**
+- 👯 I’m looking to collaborate on real-life solutions.
 
-- 💬 Ask me about **Python, Data Science**
+- 🌱 I’m currently learning to manage my time and contribute more.
 
-- 📫 How to reach me **pratham.arya@outlook.com**
+- 📫 How to reach me pratham.arya@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
