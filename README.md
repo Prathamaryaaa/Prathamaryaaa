@@ -60,7 +60,7 @@
 - 📜 Google Data Analytics — Coursera
 - 📜 Supervised Machine Learning — Coursera
 - 📜 Time Series and Survival Analysis — Coursera
-- 📜 Predictive Modeling
+- 📜 Machine Learning A-Z: AI, Python - Udemy
 
 ---
 
@@ -80,8 +80,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prathamaryaaa&label=Profile+Views&color=00b4d8&style=flat" />
