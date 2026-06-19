@@ -12,8 +12,8 @@
 ## 👨‍💻 About Me
 
 - 🏢 Currently a **Graduate Engineer Trainee**, working on AI/ML and data engineering
-- 🎯 Goal: Becoming a **Data Engineer** — building scalable, reliable data pipelines
-- 🛠️ Recently shipped: **Smart Manufacturing Planning & Quality Intelligence Platform** (MySQL + Streamlit + Python)
+- 🎯 Goal: Becoming a **Data/AI Engineer** — building scalable, reliable data-automated pipelines
+- 🛠️ Recently shipped: **RAG-Based Document Q&A System** (Python, LangChain, FAISS, OpenAI API, Streamlit)
 - 🎓 B.Tech CSE (Data Science) — Bennett University, 2025
 - 📊 Passionate about turning raw data into decisions
 - 📍 Delhi, India
